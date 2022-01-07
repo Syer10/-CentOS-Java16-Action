@@ -1,6 +1,6 @@
 # action.yml
-name: 'CentOS8 with Java 17'
-description: 'Docker container for building on CentOS with Java 17'
+name: 'CentOS8 with Java 16'
+description: 'Docker container for building on CentOS with Java 16'
 
 inputs:
   command:
