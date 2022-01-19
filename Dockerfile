@@ -1,5 +1,5 @@
 # Container image that runs your code
-FROM centos:8
+FROM centos:7
 
 RUN yum install -y rpm-build curl zip which rpmrebuild 
 
